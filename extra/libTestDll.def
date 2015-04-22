@@ -1,0 +1,7 @@
+EXPORTS
+    getarray1d @1
+    getarray2d @2
+    initarray1d @3
+    initarray2d @4
+    putarray1d @5
+    putarray2d @6
